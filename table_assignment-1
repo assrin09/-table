@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>table</title>
+   
+</head>
+<body>
+    <table border="1" cellpadding = "3" cellspacing = "3" bordercolor="green"  height="" >
+        
+        <tr>
+            <th>name</th>
+            <th>roll no.</th>
+            <th>profile piucture</th>
+        </tr>
+        <tr>
+            <td>aasrin shaikh</td>
+            <td>32543</td>
+            <td><img src="https://i.pinimg.com/originals/ce/00/d6/ce00d6d3ed5a0320bd643f3e67ca6284.jpg" height="100" width="100"  border="2"></td>
+        </tr>
+        <tr>
+            <td>shiakh aashu</td>
+            <td>6789</td>
+            <td><img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/31/14/panda-bamboo.jpg" border="2" height="100" weight="100"></td>
+        </tr>
+    </table>
+    
+
+    </body>
+</html>
